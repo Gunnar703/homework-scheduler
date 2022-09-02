@@ -1,6 +1,8 @@
 # homework-scheduler
 Small command-line app that creates a schedule to finish your homework assignments.
 
+Note: this was a learning project. It does not follow best practices and user inputs are not validated.
+
 User inputs:
 Start date
 Homework Assignments
